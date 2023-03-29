@@ -1,0 +1,207 @@
+ .u-section-1 {
+  background-image: url("images/Snelweg1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1222px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 533px;
+  height: 533px;
+  margin: 177px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 5px 11px 9px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 53px auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 4px auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-5 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-6 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-7 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-8 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-9 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: -1px auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-10 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-11 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-12 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-13 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 auto 0 4px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1008px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-btn-7 {
+    border-style: solid;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 772px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 579px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 272px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-7 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-8 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-9 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-10 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-11 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-12 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-13 {
+    margin-left: 0;
+  }
+}
